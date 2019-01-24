@@ -1,0 +1,6 @@
+The character shoots automatically with the equipped weapon.
+arrows: walk
+v: speed up walking and stop shooting
+Goal of the game: survive as long as possible.
+Strategy: to pick up a new weapon just walk on it. the Bazooka ( B: purple) is the strongest one and kills all the enemies near the deflagration.
+Some enemies can be damaged only frontally.

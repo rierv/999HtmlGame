@@ -1,0 +1,38 @@
+canvas {
+    border:2px solid #000000;
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    background: url(img/moon.jpg);
+    background-size: cover;
+    display: block;
+    width: 1300px;
+    height: 650px;
+}
+
+#lifeBar {
+     border-radius: 10px;
+     width: 0%;
+     height: 20px;
+     font-size: 18px;
+     background-color: #3cae4d;
+     display: block;
+ }
+#ammo {
+    border-radius: 10px;
+    width: 0%;
+    height: 15px;
+    font-size: 13.5px;
+    background-color: #c70b15;
+    display: block;
+}
+
+#died {
+    font-size: 38px;
+    margin: auto;
+    padding-top: 200px;
+    text-align: center;
+    color : midnightblue;
+    display: none;
+}
